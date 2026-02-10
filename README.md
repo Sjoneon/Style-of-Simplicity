@@ -1,4 +1,4 @@
-# SOS (Style of Simple)
+# SOS (Style of Simplicity)
 
 **옷에 관심이 없었던 20~30대 남자들을 위한 옷 쇼핑몰**
 
